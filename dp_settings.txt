@@ -1,0 +1,3 @@
+sleep_after_min 30
+bi 1
+kbl default

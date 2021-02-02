@@ -1,0 +1,4 @@
+WINDOWS SPACE
+DELAY 200
+STRING Activity Monitor
+ENTER
