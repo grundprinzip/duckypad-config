@@ -9,6 +9,8 @@ z8 Hide
 s8 2
 z9 Pref
 z10 VSCode
+z11 Mail
+z12 Chrome
 BG_COLOR 64 53 255
 SWCOLOR_1 160 0 255
 SWCOLOR_2 160 0 255

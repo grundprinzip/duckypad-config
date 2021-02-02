@@ -1,7 +1,7 @@
 all: sync
 
 sync:
-	@rsync -avzh --exclude ".git" /Volumes/DUCK/ .
+	@rsync -avzh --no-perms --exclude ".git" . /Volumes/DUCK/
 
 .PHONY: sync
 
