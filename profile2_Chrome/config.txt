@@ -7,12 +7,12 @@ z6 >>
 z7 zoom-
 z8 reset
 z9 zoom+
-z10 prev
+z10 back
 z11 bookmrk
-z12 next
-z13 ptab
+z12 forward
+z13 <-tab
 z14 reopen
-z15 ntab
+z15 tab->
 BG_COLOR 255 244 0
 KEYDOWN_COLOR 100 0 255
 SWCOLOR_1 160 0 255
